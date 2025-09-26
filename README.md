@@ -1,3 +1,13 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/7IRjtlNy)
+
+# Excel 1600
+
+Esta herramienta fue desarrollada para facilitar la comparación entre archivos Excel de distintos periodos, con el objetivo de detectar rectificaciones en las series de datos que suelen pasar desapercibidas cuando se utilizan métodos tradicionales. Al identificar estos ajustes de forma automatizada, se busca mejorar la precisión de operaciones posteriores como tasas de variación, acumulados o promedios, y reducir el riesgo de errores en el análisis.
+
+La herramienta busca apoyar al usuario en la reducción del tiempo que normalmente se dedica a tareas operativas, como la revisión manual de celdas o la construcción de fórmulas comparativas. Al automatizar la detección de rectificaciones y estructurar de mejor forma la obtención de reportes de salida, permite enfocarse directamente en el análisis de las cifras y tomar decisiones con mayor claridad y confianza.
+
+Se espera que esta herramienta sea de gran utilidad para quienes trabajan con reportes periódicos en Excel, especialmente en entornos donde las tareas operativas consumen tiempo valioso que podría destinarse al análisis. El nombre del proyecto, **Excel 1600**, hace alusión a la hora habitual de salida en *algunos centros laborales (16:00 horas)*, que a menudo se ve postergada por el desgaste que generan tareas repetitivas como la revisión manual de datos, la comparación entre versiones o la validación de cifras. La intención es ofrecer una solución que ayude a terminar antes, con más confianza en los resultados y menos carga operativa.
+
 # Presentación final del curso de Programación I
 
 Este repositorio tiene como propósito servir de contenedor para los archivos de la presentación final del curso. Se deben guardar todos los archivos utilizados para la presentación (vea las condiciones de entrega más adelante). 
